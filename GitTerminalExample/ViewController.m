@@ -20,5 +20,8 @@
     NSLog(@"added print function");
 }
 
-
+-(void)sumOfNo{
+    int a=100,b=200;
+    NSLog(@"sum is %d",a+b);
+}
 @end
