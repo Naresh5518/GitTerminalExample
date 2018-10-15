@@ -24,4 +24,7 @@
     int a=100,b=200;
     NSLog(@"sum is %d",a+b);
 }
+-(void)addMulFunc{
+    
+}
 @end
